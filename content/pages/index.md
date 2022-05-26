@@ -5,11 +5,11 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love your work. Work loves you.'
-    subtitle: 'One platform, one community.'
+    title: FAQ Page not updating!!
+    subtitle: 'Careers updates with hard reload, all the rest is fallback'
     actions:
       - type: Button
-        label: Get Started
+        label: Get Started!!
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
@@ -143,7 +143,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
@@ -378,12 +378,13 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: We sometimes write things. You should read it, it might shed some
-      light on why we’re doing what we’re doing
+    title: >-
+      We sometimes write things. You should read it, it might shed some light on
+      why we’re doing what we’re doing
     actions:
       - type: Link
         label: See all posts
-        url: '/blog'
+        url: /blog
         showIcon: true
         icon: arrowRight
     posts:

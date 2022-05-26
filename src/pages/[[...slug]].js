@@ -1,6 +1,5 @@
 import React from 'react';
 import { sourcebitDataClient } from 'sourcebit-target-next';
-import { withRemoteDataUpdates } from 'sourcebit-target-next/with-remote-data-updates';
 import { getComponent } from '../components/components-registry';
 import { resolveStaticProps } from '../utils/static-props-resolvers';
 import { resolveStaticPaths } from '../utils/static-paths-resolvers';
@@ -34,4 +33,4 @@ export async function getStaticProps({ params }) {
     return { props };
 }
 
-export default withRemoteDataUpdates(Page);
+export default Page;

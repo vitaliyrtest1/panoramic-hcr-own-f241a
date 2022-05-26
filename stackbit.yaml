@@ -1,4 +1,5 @@
 stackbitVersion: ~0.4.0
+hcrHandled: false
 ssgName: nextjs
 nodeVersion: '14'
 cmsName: git
