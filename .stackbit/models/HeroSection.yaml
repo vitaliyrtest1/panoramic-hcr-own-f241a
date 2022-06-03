@@ -13,6 +13,10 @@ fieldGroups:
   - name: settings
     label: Settings
 fields:
+  - name: stringList
+    type: list
+    items:
+      type: string
   - name: colors
     default: colors-f
   - type: string
