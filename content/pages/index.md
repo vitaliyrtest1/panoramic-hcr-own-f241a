@@ -48,6 +48,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    stringList:
+      - lorem-ipsum
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
