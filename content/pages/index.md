@@ -549,7 +549,7 @@ sections:
           options:
             - New York
             - San Francisco
-            - lorem-ipsum
+            - Test
           isRequired: false
           width: full
       submitLabel: Sign Up
