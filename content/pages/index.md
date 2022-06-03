@@ -51,6 +51,7 @@ sections:
     stringList:
       - lorem-ipsum
       - lorem-ipsum
+      - lorem-ipsum
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
