@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: FAQ Page not updating!!
+    title: FAQ Page not updating
     subtitle: 'Careers updates with hard reload, all the rest is fallback'
     actions:
       - type: Button
