@@ -583,6 +583,4 @@ sections:
         textAlign: center
 testlist:
   - 1
-  - 2
-  - 3
 ---
