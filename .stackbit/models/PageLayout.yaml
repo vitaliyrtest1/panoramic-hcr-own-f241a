@@ -11,7 +11,13 @@ fields:
     label: Title
     default: This is a new page
     required: true
-  
+  - type: list
+    name: testlist
+    label: Test List
+    controlType: checkbox
+    items:
+      type: enum
+      options: [1,2,3,4,5]
   - type: list
     name: sections
     label: Sections
