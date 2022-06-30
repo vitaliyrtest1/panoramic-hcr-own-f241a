@@ -11,6 +11,7 @@ fields:
     label: Title
     default: This is a new page
     required: true
+  
   - type: list
     name: sections
     label: Sections
