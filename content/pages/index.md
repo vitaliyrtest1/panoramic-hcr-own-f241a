@@ -18,6 +18,14 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/hero.png
