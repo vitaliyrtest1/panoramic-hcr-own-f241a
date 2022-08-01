@@ -9,7 +9,6 @@ fields:
   - type: image
     name: url
     label: Image
-    source: cloudinary
     description: The URL of the image
     default: https://assets.stackbit.com/components/images/default/default-image.png
   - type: string
